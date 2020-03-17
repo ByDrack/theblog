@@ -1,0 +1,27 @@
+body{
+    background-color: palegreen;
+
+}
+.footer{
+    text-align: center;
+    color: red;
+}
+.copy{    
+text-align: center;
+text-underline-position: none;
+color: black;
+}
+
+.ume a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+
+.rt{
+    float: right;
+    text-decoration: none;
+    font-size: 1.4rem;
+font-style: italic;
+color: black;
+}
